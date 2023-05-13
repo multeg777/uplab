@@ -1,10 +1,10 @@
 {
-    "name": "uplab/test",
+    "name": "uplab/lib",
     "description": "test work",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Uplab\\Test\\": "src/"
+            "Uplab\\Lib\\": "local/lib/"
         }
     },
     "extra": {
