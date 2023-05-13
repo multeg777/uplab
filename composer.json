@@ -1,0 +1,13 @@
+{
+    "name": "uplab/test",
+    "description": "test work",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uplab\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^5.4"
+    }
+}
